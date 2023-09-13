@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi im Evan Lutz! I am currently pursuing a degree in computer and data science at WPI. I hope to continue expanding my knowledge about the field through a summer internship
 
+## In the future I hope to pursue Cybersecurity, or Machine Learning
+
+# Reach me at:
+## Gmail: evanwlutz@gmail.com
+## LinkedIn: www.linkedin.com/in/evan-lutz/
 <!--
 **evlutz/evlutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
