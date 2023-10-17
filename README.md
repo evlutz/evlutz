@@ -54,8 +54,13 @@
   </a>
     <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse">
   </a>
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
+  </a>
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  </a>
 </p>
 <!--
+
 
 **evlutz/evlutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
