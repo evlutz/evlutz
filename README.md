@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="EL.png" width="360" height="360"/>
+  <img src="EL.png" width="240" height="240"/>
 </p>
 <!--
 
