@@ -3,9 +3,12 @@
 <p align="center">
   <img src="EL.png" width="240" height="240"/>
 </p>
-
-<a href="https://www.linkedin.com/in/evan-lutz/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/evan-lutz/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 
 
