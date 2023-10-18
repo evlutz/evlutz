@@ -17,6 +17,8 @@
 - 🎓: B.S. Computer Science *Exp:* `2026`
 - 🧐: Intrested in `machine learning` and `cybersecurity`
 - “”: `"The only source of knowledge is experience"` *- Albert Einstein*
+- Currently `in pursuit of a Summer '24 Internship` in the Computer Science field
+- Feel free to reachout to me via the Outlook badge above
 
 # Recent Projects
 
