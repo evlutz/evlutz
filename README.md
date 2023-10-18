@@ -20,17 +20,32 @@
 
 # Recent Projects
 
-### [Distributed John Conway's Game of Life](https://github.com/evlutz/Operating-Systems/tree/main/Distributed_Game_of_Life)
+---
 
-- Utilizing synchronization with message passing
+## [Distributed John Conway's Game of Life](https://github.com/evlutz/Operating-Systems/tree/main/Distributed_Game_of_Life)
+
+- Synchronization through message passing
 - Optimized preformance with multi-threading
-- Semaphores for shared data critical reigons
+- Implemented semaphores for shared data critical reigons
 
 ![Alt Text](GitProfileGOL.gif)
 
+**Check it out [HERE](https://github.com/evlutz/Operating-Systems/tree/main/Distributed_Game_of_Life)**
 
+---
 
+## [Multiserver](https://github.com/evlutz/Operating-Systems/tree/main/Server%20Request%20Handler)
 
+- Serial and Multi-Threaded architecture avalible
+- Replicates a server which all thread at some point havee to access the critical reigon
+- Implements mutual exclusion in the critical reigon
+- Utilizes iNode information but also checks specifically for text files
+
+![Alt Text](SRHRun.png)
+
+**Check it out [HERE](https://github.com/evlutz/Operating-Systems/tree/main/Server%20Request%20Handler)**
+
+---
 
 # Languages:
 <p align="Left">
