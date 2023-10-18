@@ -16,7 +16,7 @@
 - 📖: Worcester Polytechnic Institute, `WPI`
 - 🎓: B.S. Computer Science *Exp:* `2026`
 - 🧐: Intrested in `machine learning` and `cybersecurity`
-- “”: "The only source of knowledge is experience" *- Albert Einstein*
+- “”: `"The only source of knowledge is experience"` *- Albert Einstein*
 
 # Recent Projects
 
@@ -24,22 +24,21 @@
 
 ## [Distributed John Conway's Game of Life](https://github.com/evlutz/Operating-Systems/tree/main/Distributed_Game_of_Life)
 
-- Synchronization through message passing
-- Optimized preformance with multi-threading
-- Implemented semaphores for shared data critical reigons
+- `Synchronization` through `message passing`
+- Optimized preformance with `multi-threading`
+- Implemented `semaphores` for shared data `critical reigons`
 
 ![Alt Text](GitProfileGOL.gif)
 
 **Check it out [HERE](https://github.com/evlutz/Operating-Systems/tree/main/Distributed_Game_of_Life)**
 
----
 
 ## [Multiserver](https://github.com/evlutz/Operating-Systems/tree/main/Server%20Request%20Handler)
 
-- Serial and Multi-Threaded architecture avalible
+- `Serial and Multi-Threaded` architecture avalible
 - Replicates a server which all thread at some point havee to access the critical reigon
-- Implements mutual exclusion in the critical reigon
-- Utilizes iNode information but also checks specifically for text files
+- Implements `mutual exclusion` in the critical reigon
+- Utilizes `iNode` information but also checks specifically for text files
 
 ![Alt Text](SRHRun.png)
 
