@@ -16,9 +16,10 @@
 
 # About
 
-- 📖: Worcester Polytechnic Institute, `WPI`
-- 🎓: B.S. Computer Science *Exp:* '26
-- 🧐: Intrested in machine learning and cybersecurity
+- #### 📖: Worcester Polytechnic Institute, `WPI`
+- #### 🎓: B.S. Computer Science *Exp:* `2026`
+- #### 🧐: Intrested in `machine learning` and `cybersecurity`
+- #### “”: "The only source of knowledge is experience" *- Albert Einstein*
 
 # Languages:
 <p align="Left">
