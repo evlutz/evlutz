@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img src="EL.png" width="240" height="240"/>
 </p>
@@ -13,16 +11,26 @@
   </a>
 </p>
 
-<span style="color: black;">
-
 # About
 
-- #### 📖: Worcester Polytechnic Institute, `WPI`
-- #### 🎓: B.S. Computer Science *Exp:* `2026`
-- #### 🧐: Intrested in `machine learning` and `cybersecurity`
-- #### “”: "The only source of knowledge is experience" *- Albert Einstein*
+- 📖: Worcester Polytechnic Institute, `WPI`
+- 🎓: B.S. Computer Science *Exp:* `2026`
+- 🧐: Intrested in `machine learning` and `cybersecurity`
+- “”: "The only source of knowledge is experience" *- Albert Einstein*
 
-</span>
+# Recent Projects
+
+### [Distributed John Conway's Game of Life](https://github.com/evlutz/Operating-Systems/tree/main/Distributed_Game_of_Life)
+
+- Utilizing synchronization with message passing
+- Optimized preformance with multi-threading
+- Semaphores for shared data critical reigons
+
+![Alt Text](GitProfileGOL.gif)
+
+
+
+
 
 # Languages:
 <p align="Left">
