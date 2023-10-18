@@ -13,6 +13,7 @@
   </a>
 </p>
 
+<span style="color: black;">
 
 # About
 
@@ -20,6 +21,8 @@
 - #### 🎓: B.S. Computer Science *Exp:* `2026`
 - #### 🧐: Intrested in `machine learning` and `cybersecurity`
 - #### “”: "The only source of knowledge is experience" *- Albert Einstein*
+
+</span>
 
 # Languages:
 <p align="Left">
