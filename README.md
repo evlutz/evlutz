@@ -16,6 +16,9 @@
 
 # About
 
+- 📖: Worcester Polytechnic Institute, `WPI`
+- 🎓: B.S. Computer Science *Exp:* '26
+- 🧐: Intrested in machine learning and cybersecurity
 
 # Languages:
 <p align="Left">
