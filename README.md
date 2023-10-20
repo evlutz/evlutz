@@ -14,7 +14,7 @@
 # About
 
 - 📖: Worcester Polytechnic Institute, `WPI`
-- 🎓: B.S. Computer Science *Exp:* `2026`
+- 🎓: B.S. Computer Science *Expected:* `2026`
 - 🧐: Intrested in `machine learning` and `cybersecurity`
 - “”: `"The only source of knowledge is experience"` *- Albert Einstein*
 - Currently `in pursuit of a Summer '24 Internship` in the Computer Science field
@@ -37,7 +37,7 @@
 
 ## [Multiserver](https://github.com/evlutz/Operating-Systems/tree/main/Server%20Request%20Handler)
 
-- `Serial and Multi-Threaded` architecture avalible
+- `Serial and Multi-Threaded` architecture available
 - Replicates a server which all thread at some point havee to access the critical reigon
 - Implements `mutual exclusion` in the critical reigon
 - Utilizes `iNode` information but also checks specifically for text files
