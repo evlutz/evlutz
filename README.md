@@ -48,7 +48,7 @@
 
 ### Entity-Relationship Diagram (ERD)
 
-<img src="/Databases/Hospital%20Information%20System%20(MIS)/ERD.png" width="504" height="543" class="center">
+<img src="~/Databases/Hospital%20Information%20System%20(MIS)/ERD.png" width="504" height="543" class="center">
 
 ### Check it out [HERE](https://github.com/evlutz/Databases/tree/main/Hospital%20Information%20System%20(MIS))
 
