@@ -14,7 +14,7 @@
 # About
 
 - 📖: Worcester Polytechnic Institute, `WPI`
-- 🎓: B.S. Computer Science *Expected:* `2026`
+- 🎓: B.S. Computer Science & Data Science `2026`
 - 🧐: Intrested in `machine learning` and `cybersecurity`
 - “”: `"The only source of knowledge is experience"` *- Albert Einstein*
 - Currently `in pursuit of a Summer '24 Internship` in the Computer Science field
